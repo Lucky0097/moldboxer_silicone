@@ -1,0 +1,10 @@
+{
+    "schema_version": "1.0.0",
+    "extensions": [
+        {
+            "id": "moldboxer_silicone",
+            "version": "1.0.3",
+            "archive_url": "https://github.com/YourUsername/my_blender_extension/releases/download/v1.0.0/my_extension-1.0.0.zip"
+        }
+    ]
+}
