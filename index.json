@@ -6,7 +6,7 @@
       "id": "moldboxer_silicone",
       "name": "Moldboxer Silicone",
       "tagline": "Generate silicone mold systems",
-      "mantainer": "DRP",
+      "maintainer": "DRP",
       "description": "Generate silicone mold systems",
       "license": ["GPL-3.0-or-later"],
       "type": "add-on",
