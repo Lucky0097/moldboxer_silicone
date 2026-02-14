@@ -8,7 +8,7 @@
       "tagline": "Generate silicone mold systems",
       "mantainer": "DRP",
       "description": "Generate silicone mold systems",
-      "license": ["GPL-3.0-or-later"]",
+      "license": ["GPL-3.0-or-later"],
       "type": "add-on",
       "blender_version_min": "4.5.0",
       "version": "1.0.3",
