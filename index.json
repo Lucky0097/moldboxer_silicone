@@ -12,7 +12,7 @@
       "type": "add-on",
       "blender_version_min": "4.5.0",
       "version": "1.0.4",
-      "archive_size": 55470,
+      "archive_size": 59048,
       "archive_hash": "sha256:72717a6c432b31506d24f45f5f3f2141ab3e1ea8de8a74a22d8f21a6aedabebc",
       "archive_url": "https://github.com/Lucky0097/moldboxer_silicone/releases/download/v1.0.4/moldboxer_silicone_release_1.0.4.zip",
       "schema_version": "1.0.0"
