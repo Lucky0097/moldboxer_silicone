@@ -4,6 +4,7 @@
   "data": [
     {
       "id": "moldboxer_silicone",
+      "name": "Moldboxer Silicone",
       "version": "1.0.3",
       "archive_url": "https://github.com/Lucky0097/moldboxer_silicone/releases/download/v1.0.3/moldboxer_silicone_release_1.0.3.zip",
       "schema_version": "1.0.0"
