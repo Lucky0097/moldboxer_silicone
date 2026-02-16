@@ -1,5 +1,5 @@
 {
-  "version": "1.0.7",
+  "version": "1.0.8",
   "schema_version": "1.0.0",
   "data": [
     {
@@ -11,10 +11,10 @@
       "license": ["GPL-3.0-or-later"],
       "type": "add-on",
       "blender_version_min": "4.5.0",
-      "version": "1.0.7",
-      "archive_size": 59517,
-      "archive_hash": "sha256:b6f53c12804446ab385b9b16ea65d46c2fce2bf3768f1f58fc947af89c2827fa",
-      "archive_url": "https://github.com/Lucky0097/moldboxer_silicone/releases/download/v1.0.7/moldboxer_silicone-1.0.7.zip",
+      "version": "1.0.8",
+      "archive_size": 59565,
+      "archive_hash": "sha256:ce38698cb66e261941a1b7bdcc6563a793896db0f3cf2ddb4e35c60b537ae69e",
+      "archive_url": "https://github.com/Lucky0097/moldboxer_silicone/releases/download/v1.0.8/moldboxer_silicone-1.0.8.zip",
       "schema_version": "1.0.0"
     }
   ]
